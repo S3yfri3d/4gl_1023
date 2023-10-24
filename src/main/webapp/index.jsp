@@ -58,10 +58,10 @@
             <div class="select-box">
               <select>
                 <option hidden>Country</option>
-                <option>America</option>
-                <option>Japan</option>
+                <option>korea</option>
+                <option>KOREA</option>
                 <option>Korea</option>
-                <option>Nepal</option>
+                <option>KOREA</option>
               </select>
             </div>
             <input type="text" placeholder="Enter your city" required />
