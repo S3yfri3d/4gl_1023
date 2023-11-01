@@ -11,7 +11,7 @@
   </head>
   <body>
     <section class="container">
-      <header>HI 2023-10-31 10:16 Registeration</header>
+      <header>HI 2023-11-01 15:45 Registeration</header>
       <form action="#" class="form">
         <div class="input-box">
           <label>Full Name</label>
